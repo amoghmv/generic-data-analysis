@@ -1,4 +1,4 @@
-Antarctica Global Assignment Questions - Data Analyst
+## Antarctica Global Assignment Questions - Data Analyst
 
 This repository contains my solutions to the below questions. It includes SQL queries and Python-based analytics using packages like pandas, matplotlib, numpy
 
