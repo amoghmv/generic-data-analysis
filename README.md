@@ -36,7 +36,23 @@ Simple linear regression to predict leads based on time spent
 If running the code is not an option, 
 the /captures folder an be opened to look for the output
 
+The dashboard section includes the code and images to the following -
+**1. Impact of Daily Team Reviews**
+Line chart (Power BI) comparing daily leads generated on days attneded vs missed team reviews, per associate.
+
+**2. Optimal Time Threshold**
+Heatmap (Python – seaborn) showing how average leads vary across time buckets (e.g. 0–60, 61–120 min).
+
+**3. Monthly Performance Comparison**
+Clustered bar chart (Power BI) showing total leads generated per associate across different months.
+
+**5. Incomplete Leads Trend**
+Line chart (Power BI) tracking daily incomplete leads to analyze spikes and recovery patterns.
+
+**6. Time Distribution Analysis**
+Box plot (Python – seaborn) illustrating the spread and consistency of time spent on lead generation by associate.
+
 ## What I used?
-- Python (pandas,numpy, matplotlib)
+- Python (pandas, numpy, matplotlib, seaborn, mysql.connector)
 - MySQL
 
