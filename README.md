@@ -2,9 +2,9 @@
 
 This repository contains my solutions to the below questions. It includes SQL queries and Python-based analytics using packages like pandas, matplotlib, numpy
 
-**File name - Python_Code_Assignment.ipynb
-              And 
-              SQL_Code_Assignment.sql**
+**File name - Python_Code_Assignment.ipynb**
+              AND
+              **SQL_Code_Assignment.sql**
 
 1. **Lead Generation Efficiency** 
 Ratio of leads generated to time spent — who is most efficient?
