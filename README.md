@@ -1,10 +1,11 @@
 ## Antarctica Global Assignment Questions - Data Analyst
 
-This repository contains my solutions to the below questions. It includes SQL queries and Python-based analytics using packages like pandas, matplotlib, numpy
+This repository contains my solutions to the below questions. It includes SQL queries and Python-based analytics using packages like pandas, matplotlib, numpy, seaborn, sckit-learn
+The file **insights_through_analysis.pdf** is the report that includes everything related to the analysis, business insights, business recommendations and suggestions.
 
 **File name - python_code_analysis.ipynb**
               AND
-              **sql_code_analysis.sql**
+              **sql_code_analysis.sql** includes code used for the analysis to answer the following business questions:
 
 1. **Lead Generation Efficiency** (SQL)
 Ratio of leads generated to time spent — who is most efficient?
@@ -42,8 +43,8 @@ the /captures folder an be opened to look for the output
 
 The dashboard section includes the code and images to the following
 
-**File name - python_dashboard_code.ipynb**
-If the image on report is not clearly visible, please refer to **dashboar_img_antarctica_global.jpg**
+**File name - python_dashboard_code.ipynb** contains the Python code used for visualisation of data (only boxplot and heatmap was done via python)
+Reference to **dashboar_img_antarctica_global.jpg** can also be made to look into the static dashboard image
 
 **1. Impact of Daily Team Reviews** (POWER BI)
 Line chart (Power BI) comparing daily leads generated on days attneded vs missed team reviews, per associate.
