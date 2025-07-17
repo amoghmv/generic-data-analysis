@@ -12,7 +12,7 @@ Ratio of leads generated to time spent — who is most efficient?
 2. **Daily Performance Variability**  (SQL)
 Standard deviation of daily leads — who is most inconsistent?
 
-3. **Time Management Analysis** (SQL)
+3. **Time Management Analysis** (SQL,PYTHON)
 Correlation between time per lead and total leads generated
 
 4. **Impact of Daily Team Reviews**  (SQL)
