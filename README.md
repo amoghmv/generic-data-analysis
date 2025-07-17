@@ -1,4 +1,10 @@
 ## Antarctica Global Assignment - Data Analyst
+MV AMOGH - amoghmv
+
+## What I used?
+- Python (pandas, numpy, matplotlib, seaborn, mysql.connector)
+- MySQL
+- Power BI
 
 This repository contains my solutions to the below questions. It includes SQL queries and Python-based analytics using packages like pandas, matplotlib, numpy, seaborn, sckit-learn
 The file **insights_through_analysis.pdf** is the report that includes everything related to the analysis, business insights, business recommendations and suggestions.
@@ -60,8 +66,4 @@ Line chart (Power BI) tracking daily incomplete leads to analyze spikes and reco
 
 **6. Time Distribution Analysis** (PYTHON, SEABORN, MATPLOTLIB)
 Box plot (Python – seaborn) illustrating the spread and consistency of time spent on lead generation by associate.
-
-## What I used?
-- Python (pandas, numpy, matplotlib, seaborn, mysql.connector)
-- MySQL
 
