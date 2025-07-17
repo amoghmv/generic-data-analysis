@@ -6,7 +6,7 @@ MV AMOGH - amoghmv
 - MySQL
 - Power BI
 
-This repository contains my solutions to the below questions. It includes SQL queries and Python-based analytics using packages like pandas, matplotlib, numpy, seaborn, sckit-learn
+This repository contains SQL and Python-based analytics using packages like pandas, matplotlib, numpy, seaborn, sckit-learn to help gather business insights and solve problems.
 The file **insights_through_analysis.pdf** is the report that includes everything related to the analysis, business insights, business recommendations and suggestions.
 
 **File name - python_code_analysis.ipynb**
