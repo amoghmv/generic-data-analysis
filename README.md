@@ -1,4 +1,4 @@
-## Antarctica Global Assignment Questions - Data Analyst
+## Antarctica Global Assignment - Data Analyst
 
 This repository contains my solutions to the below questions. It includes SQL queries and Python-based analytics using packages like pandas, matplotlib, numpy, seaborn, sckit-learn
 The file **insights_through_analysis.pdf** is the report that includes everything related to the analysis, business insights, business recommendations and suggestions.
