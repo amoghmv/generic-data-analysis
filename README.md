@@ -2,9 +2,9 @@
 
 This repository contains my solutions to the below questions. It includes SQL queries and Python-based analytics using packages like pandas, matplotlib, numpy
 
-**File name - Python_Code_Assignment.ipynb**
+**File name - python_code_analysis.ipynb**
               AND
-              **SQL_Code_Assignment.sql**
+              **sql_code_analysis.sql**
 
 1. **Lead Generation Efficiency** (SQL)
 Ratio of leads generated to time spent — who is most efficient?
@@ -42,7 +42,7 @@ the /captures folder an be opened to look for the output
 
 The dashboard section includes the code and images to the following
 
-**File name - Dashboard_Python_Code.ipynb**
+**File name - python_dashboard_code.ipynb**
 
 **1. Impact of Daily Team Reviews** (POWER BI)
 Line chart (Power BI) comparing daily leads generated on days attneded vs missed team reviews, per associate.
