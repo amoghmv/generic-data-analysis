@@ -43,7 +43,7 @@ the /captures folder an be opened to look for the output
 
 The dashboard section includes the code and images to the following
 
-**File name - python_dashboard_code.ipynb** contains the Python code used for visualisation of data (only boxplot and heatmap was done via python)
+**File name - python_dashboard_code.ipynb** contains the Python code used for visualisation of data (only boxplot and heatmap via python)
 Reference to **dashboar_img_antarctica_global.jpg** can also be made to look into the static dashboard image
 
 **1. Impact of Daily Team Reviews** (POWER BI)
