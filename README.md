@@ -53,17 +53,17 @@ The dashboard section includes the code and images to the following
 Reference to **dashboard_img_antarctica_global.jpg** can also be made to look into the static dashboard image
 
 **1. Impact of Daily Team Reviews** (POWER BI)
-Line chart (Power BI) comparing daily leads generated on days attneded vs missed team reviews, per associate.
+Line chart comparing daily leads generated on days attneded vs missed team reviews, per associate.
 
 **2. Optimal Time Threshold** (PYTHON, SEABORN, MATPLOTLIB)
-Heatmap (Python – seaborn) showing how average leads vary across time buckets (e.g. 0–60, 61–120 min).
+Heatmap showing how average leads vary across time buckets (e.g. 0–60, 61–120 min).
 
 **3. Monthly Performance Comparison** (POWER BI)
-Clustered bar chart (Power BI) showing total leads generated per associate across different months.
+Clustered bar chart showing total leads generated per associate across different months.
 
 **5. Incomplete Leads Trend** (POWER BI)
-Line chart (Power BI) tracking daily incomplete leads to analyze spikes and recovery patterns.
+Line chart tracking daily incomplete leads to analyze spikes and recovery patterns.
 
 **6. Time Distribution Analysis** (PYTHON, SEABORN, MATPLOTLIB)
-Box plot (Python – seaborn) illustrating the spread and consistency of time spent on lead generation by associate.
+Box plot illustrating the spread and consistency of time spent on lead generation by associate.
 
