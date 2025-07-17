@@ -43,6 +43,7 @@ the /captures folder an be opened to look for the output
 The dashboard section includes the code and images to the following
 
 **File name - python_dashboard_code.ipynb**
+If the image on report is not clearly visible, please refer to **dashboar_img_antarctica_global.jpg**
 
 **1. Impact of Daily Team Reviews** (POWER BI)
 Line chart (Power BI) comparing daily leads generated on days attneded vs missed team reviews, per associate.
