@@ -6,35 +6,35 @@ This repository contains my solutions to the below questions. It includes SQL qu
               AND
               **SQL_Code_Assignment.sql**
 
-1. **Lead Generation Efficiency** 
+1. **Lead Generation Efficiency** (SQL)
 Ratio of leads generated to time spent — who is most efficient?
 
-2. **Daily Performance Variability**  
+2. **Daily Performance Variability**  (SQL)
 Standard deviation of daily leads — who is most inconsistent?
 
-3. **Time Management Analysis**
+3. **Time Management Analysis** (SQL)
 Correlation between time per lead and total leads generated
 
-4. **Impact of Daily Team Reviews**  
+4. **Impact of Daily Team Reviews**  (SQL)
 Difference in performance on days when team reviews were attended vs missed
 
-5. **Incomplete Leads Trend**  
+5. **Incomplete Leads Trend**  (PYTHON, PANDAS, MATPLOTLIB)
 Regression trend over time — are incomplete leads reducing over time?
 
-6. **Performance Consistency**  
+6. **Performance Consistency** 
 Coefficient of variation — who is the most consistent performer?
 
-7. **High-Performance Days**  
+7. **High-Performance Days**  (SQL)
 Top 10% lead-gen days — how much time was spent in those top days?
 
-8. **Optimal Time Threshold**  
+8. **Optimal Time Threshold**  (SQL)
 Is there a “sweet spot” for time spent that boosts leads?
 
-9. **Weekday vs Weekend Performance**  
+9. **Weekday vs Weekend Performance** (SQL)  
 Comparing average leads between weekdays and weekends
 (also added mid-week for deeper analysis)
 
-11. **Predictive Analysis**  
+11. **Predictive Analysis** (PYTHON - PANDAS,NUMPY,MATPLOTLIB)
 Simple linear regression to predict leads based on time spent
 
 If running the code is not an option, 
@@ -44,19 +44,19 @@ The dashboard section includes the code and images to the following
 
 **File name - Dashboard_Python_Code.ipynb**
 
-**1. Impact of Daily Team Reviews**
+**1. Impact of Daily Team Reviews** (POWER BI)
 Line chart (Power BI) comparing daily leads generated on days attneded vs missed team reviews, per associate.
 
-**2. Optimal Time Threshold**
+**2. Optimal Time Threshold** (PYTHON, SEABORN, MATPLOTLIB)
 Heatmap (Python – seaborn) showing how average leads vary across time buckets (e.g. 0–60, 61–120 min).
 
-**3. Monthly Performance Comparison**
+**3. Monthly Performance Comparison** (POWER BI)
 Clustered bar chart (Power BI) showing total leads generated per associate across different months.
 
-**5. Incomplete Leads Trend**
+**5. Incomplete Leads Trend** (POWER BI)
 Line chart (Power BI) tracking daily incomplete leads to analyze spikes and recovery patterns.
 
-**6. Time Distribution Analysis**
+**6. Time Distribution Analysis** (PYTHON, SEABORN, MATPLOTLIB)
 Box plot (Python – seaborn) illustrating the spread and consistency of time spent on lead generation by associate.
 
 ## What I used?
