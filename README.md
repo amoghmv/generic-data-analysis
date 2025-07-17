@@ -2,7 +2,7 @@
 MV AMOGH - amoghmv
 
 ## What I used?
-- Python (pandas, numpy, matplotlib, seaborn, mysql.connector)
+- Python (pandas, numpy, matplotlib, seaborn, sckit-learn, mysql.connector)
 - MySQL
 - Power BI
 
