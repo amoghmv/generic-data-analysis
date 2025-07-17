@@ -21,7 +21,7 @@ Difference in performance on days when team reviews were attended vs missed
 5. **Incomplete Leads Trend**  (PYTHON, PANDAS, MATPLOTLIB)
 Regression trend over time — are incomplete leads reducing over time?
 
-6. **Performance Consistency** 
+6. **Performance Consistency** (SQL)
 Coefficient of variation — who is the most consistent performer?
 
 7. **High-Performance Days**  (SQL)
