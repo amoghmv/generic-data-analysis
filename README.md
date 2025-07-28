@@ -17,33 +17,33 @@ The file **insights_through_analysis.pdf** is the report that includes everythin
 <img width="246" height="96" alt="MYSQL AG Q1" src="https://github.com/user-attachments/assets/2830aa7f-b720-4ad7-bb09-307c0142dcad" />
 Ratio of leads generated to time spent — who is most efficient?
 
-3. **Daily Performance Variability** (SQL)
+2. **Daily Performance Variability** (SQL)
 <img width="229" height="103" alt="MySQL AG Q2" src="https://github.com/user-attachments/assets/dd6b6c33-94e1-4a31-8196-eb5c8f606752" />
 Standard deviation of daily leads — who is most inconsistent?
 
-5. **Time Management Analysis** (SQL,PYTHON) 
+3. **Time Management Analysis** (SQL,PYTHON) 
 Correlation between time per lead and total leads generated
 
-6. **Impact of Daily Team Reviews**  (SQL)
+4. **Impact of Daily Team Reviews**  (SQL)
 Difference in performance on days when team reviews were attended vs missed
 
-7. **Incomplete Leads Trend**  (PYTHON, PANDAS, MATPLOTLIB)
+5. **Incomplete Leads Trend**  (PYTHON, PANDAS, MATPLOTLIB)
 Regression trend over time — are incomplete leads reducing over time?
 
-8. **Performance Consistency** (SQL)
+6. **Performance Consistency** (SQL)
 Coefficient of variation — who is the most consistent performer?
 
-9. **High-Performance Days**  (SQL)
+7. **High-Performance Days**  (SQL)
 Top 10% lead-gen days — how much time was spent in those top days?
 
-10. **Optimal Time Threshold**  (SQL)
+8. **Optimal Time Threshold**  (SQL)
 Is there a “sweet spot” for time spent that boosts leads?
 
-11. **Weekday vs Weekend Performance** (SQL)  
+9. **Weekday vs Weekend Performance** (SQL)  
 Comparing average leads between weekdays and weekends
 (also added mid-week for deeper analysis)
 
-12. **Predictive Analysis** (PYTHON - PANDAS,NUMPY,MATPLOTLIB)
+10. **Predictive Analysis** (PYTHON - PANDAS,NUMPY,MATPLOTLIB)
 Simple linear regression to predict leads based on time spent
 
 If running the code is not an option, 
