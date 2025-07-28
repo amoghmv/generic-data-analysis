@@ -13,13 +13,13 @@ The file **insights_through_analysis.pdf** is the report that includes everythin
               AND
               **sql_code_analysis.sql** includes code used for the analysis to answer the following business questions:
 
-1. **Lead Generation Efficiency** (SQL)
+1. **Lead Generation Efficiency** (SQL) <img width="246" height="96" alt="MYSQL AG Q1" src="https://github.com/user-attachments/assets/2830aa7f-b720-4ad7-bb09-307c0142dcad" />
 Ratio of leads generated to time spent — who is most efficient?
 
-2. **Daily Performance Variability**  (SQL)
+2. **Daily Performance Variability** (SQL) <img width="229" height="103" alt="MySQL AG Q2" src="https://github.com/user-attachments/assets/dd6b6c33-94e1-4a31-8196-eb5c8f606752" />
 Standard deviation of daily leads — who is most inconsistent?
 
-3. **Time Management Analysis** (SQL,PYTHON)
+3. **Time Management Analysis** (SQL,PYTHON) 
 Correlation between time per lead and total leads generated
 
 4. **Impact of Daily Team Reviews**  (SQL)
@@ -50,7 +50,9 @@ the /captures folder an be opened to look for the output
 The dashboard section includes the code and images to the following
 
 **File name - python_dashboard_code.ipynb** contains the Python code used for visualisation of data (only boxplot and heatmap via python)
-Reference to **dashboard_img_antarctica_global.jpg** can also be made to look into the static dashboard image
+Reference to this link can also be made to look into the static dashboard image.
+
+![Dashboard Antarctica Global](https://github.com/user-attachments/assets/eabb0377-0d33-4b27-8e00-db6a239aaacc)
 
 **1. Impact of Daily Team Reviews** (POWER BI)
 Line chart comparing daily leads generated on days attneded vs missed team reviews, per associate.
@@ -60,6 +62,7 @@ Heatmap showing how average leads vary across time buckets (e.g. 0–60, 61–12
 
 **3. Monthly Performance Comparison** (POWER BI)
 Clustered bar chart showing total leads generated per associate across different months.
+
 
 **5. Incomplete Leads Trend** (POWER BI)
 Line chart tracking daily incomplete leads to analyze spikes and recovery patterns.
