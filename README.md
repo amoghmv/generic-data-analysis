@@ -1,4 +1,4 @@
-## Antarctica Global Assignment - Data Analyst
+## Data Analysis Project
 MV AMOGH - amoghmv
 
 ## What I used?
