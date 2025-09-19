@@ -1,4 +1,4 @@
-### Business insights in the word file
+### Business insights in the .pdf file
 MV AMOGH - amoghmv
 
 ## What I used?
